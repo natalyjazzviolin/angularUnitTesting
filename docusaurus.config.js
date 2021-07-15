@@ -17,7 +17,7 @@ module.exports = {
       title: 'Unit Testing in Angular',
       logo: {
         alt: 'Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/flask.svg',
         href: '/docs/intro', // Default to `siteConfig.baseUrl`.
         target: '_self',
       },
