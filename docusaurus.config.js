@@ -13,6 +13,12 @@ module.exports = {
   organizationName: 'natalyjazzviolin', // Usually your GitHub org/user name.
   projectName: 'angularUnitTesting.github.io', // Usually your repo name.
   trailingSlash: false,
+  plugins:  [
+    "docusaurus2-dotenv",
+    {
+      systemvars: true,
+    },
+  ],
   themeConfig: {
     navbar: {
       title: 'Unit Testing in Angular',
