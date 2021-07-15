@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Unit Testing in Angular',
   tagline: 'Testing cool',
-  url: 'https://natalyjazzviolin.github.io/angularUnitTesting/',
+  url: 'https://natalyjazzviolin.github.io',
   baseUrl: '/angularUnitTesting/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'natalyjazzviolin', // Usually your GitHub org/user name.
-  projectName: 'angularUnitTesting.github.io', // Usually your repo name.
+  organizationName: 'natalyjazzviolin',
+  projectName: 'angularUnitTesting',
   trailingSlash: false,
   themeConfig: {
     navbar: {
