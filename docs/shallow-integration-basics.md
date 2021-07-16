@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 5
 ---
-# Shallow Integration Test Basics
+# Shallow Integration Basics
 
 ## TestBed Object
 
