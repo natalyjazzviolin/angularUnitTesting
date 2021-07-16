@@ -1,0 +1,1 @@
+(self.webpackChunktest_site=self.webpackChunktest_site||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Greetings!","permalink":"/angularUnitTesting/blog/greetings"}]}')}}]);

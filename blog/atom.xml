@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://natalyjazzviolin.github.io/angularUnitTesting/blog</id>
+    <title>Unit Testing in Angular Blog</title>
+    <updated>2021-07-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://natalyjazzviolin.github.io/angularUnitTesting/blog"/>
+    <subtitle>Unit Testing in Angular Blog</subtitle>
+    <icon>https://natalyjazzviolin.github.io/angularUnitTesting/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Greetings!]]></title>
+        <id>greetings</id>
+        <link href="https://natalyjazzviolin.github.io/angularUnitTesting/blog/greetings"/>
+        <updated>2021-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some notes created on July 15th, 2021!]]></summary>
+    </entry>
+</feed>
