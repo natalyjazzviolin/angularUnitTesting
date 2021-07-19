@@ -52,6 +52,20 @@ expect(fixture.componentInstance.method)
 
 ## Emit event from sub-component
 
-Research this more and write notes.
+This can be done in two ways:
+1. Emit the event from the component.
+2. Raise the eent through the child componen'ts `debugElement`.
+
+### Tell the component to emit the event
+
+`
+(<ParentComponent>childComponents[0].componentInstance).method.emit(undefined);`
+
+### Trigger the event directly
+
+We don't know if the child component has this event emitter, we are just telling the `debugElement` for the child component to raise the event.
+
+`childComponent.triggerEventHandler('method', null);`
+
 
 
